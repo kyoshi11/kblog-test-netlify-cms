@@ -1,22 +1,19 @@
 ---
-heading: Great coffee with a conscience
+templateKey: 'product-page'
 path: /products
-templateKey: product-page
-title: Our Coffee
+title: 私たちのコーヒー
 image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+heading: 良心のある素晴らしいコーヒー
+description: >-
+  カルディはジャワの起源とそれを育てた農家をサポートすることを学ぶコーヒー愛好家のための究極のスポットです
+  します。コーヒーを生産、焙煎、醸造を真剣に取り組み、誰にでも知識を誰でもお渡します。
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        私たちは、独立した農家や農協から直接調達されたコーヒー豆を焙煎して販売しています。
+        私たちは、環境と地域社会に配慮して育てられたさまざまなコーヒー豆を提供できることを誇りに思っています。
+        現在の空き状況については、投稿を確認するか、直接お問い合わせください。
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -61,35 +58,40 @@ main:
     image: /img/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+    quote: >-
+      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
       the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+    quote: >-
+      Kaldi is the place to go if you want the best quality coffee. I love their
+      stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: サブスクリプション（月額）
-  description: "
-    私たちはあなたの人生の一部として素晴らしいコーヒーを簡単に作ることができます。毎月あなたの玄関先で素晴らしいコーヒーを受け取るために私たちの毎月のサブ\
-    スクリプションプランのいずれかを選択してください。詳細とお支払い情報についてはお問い合わせください。"
+  heading: Monthly subscriptions
+  description: >-
+    We make it easy to make great coffee a part of your life. Choose one of our
+    monthly subscription plans to receive great coffee at your doorstep each
+    month. Contact us about more details and payment info.
   plans:
-    - description: " 1日1〜2杯お召し上がりいただく方に最適です"
+    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
-        - 1か月あたり3ポンドのコーヒー、グリーンまたはロースト豆」、1つか2つの種類の豆」
+        - 3 lbs of coffee per month
+        - Green or roasted beans"
+        - One or two varieties of beans"
       plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+      price: '50'
+    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: "80"
+      price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: ??
+      price: '??'
 ---

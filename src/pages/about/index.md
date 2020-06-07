@@ -1,10 +1,11 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: 価値観について
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### シェードコーヒー
+コーヒーは、野生の形で森の下層で育つ小さな木または低木で、伝統的に日陰を提供する他の木の下で商業的に栽培されていました。
+シェードコーヒー農場の森のような構造は、多くの渡り鳥や在来種の生息地を提供します.
 
 ### Single origin
 Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.

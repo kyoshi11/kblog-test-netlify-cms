@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+//import logo from '../img/logo.svg'
+import logo from '../img/ksblog.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -45,6 +46,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
+            {/* eslint-disable */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
@@ -54,6 +56,7 @@ const Navbar = class extends React.Component {
               <span />
               <span />
             </div>
+            {/* eslint-disable */}
           </div>
           <div
             id="navMenu"
@@ -61,20 +64,22 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/about">
-                About
+                KS Blogについて
               </Link>
               <Link className="navbar-item" to="/products">
-                Products
+                商品・サービス
               </Link>
               <Link className="navbar-item" to="/blog">
-                Blog
+                ブログ
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                問合せ
               </Link>
+              {/*
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+              */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
