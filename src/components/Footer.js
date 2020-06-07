@@ -36,16 +36,13 @@ const Footer = class extends React.Component {
                         Home
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/about">
-                        KS Blogについて
-                      </Link>
-                    </li>
+                    {/*
                     <li>
                       <Link className="navbar-item" to="/products">
                         商品・サービス
                       </Link>
                     </li>
+                    */}
                     {/*
                     <li>
                       <Link className="navbar-item" to="/contact/examples">
@@ -62,6 +59,11 @@ const Footer = class extends React.Component {
                         管理者
                       </a>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact">
+                        お問い合わせ
+                      </Link>
+                    </li>
                     */}
                   </ul>
                 </section>
@@ -75,8 +77,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        お問い合わせ
+                      <Link className="navbar-item" to="/about">
+                        KS Blogについて
                       </Link>
                     </li>
                   </ul>

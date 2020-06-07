@@ -2,7 +2,8 @@
 templateKey: 'blog-post'
 title: 'jamstackでブログ構築'
 date: 2020-06-07T18:28:10.000Z
-featuredpost: true
+featuredpost: false
+featuredimage: img/cover.jpg
 description: >-
   jamstackでブログ構築
 tags:
