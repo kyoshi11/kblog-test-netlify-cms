@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: KS Blog
-image: /img/home-jumbotron.jpg
+<!-- image: /img/home-jumbotron.jpg -->
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: 世の中に役立つ情報を提供する
 mainpitch:
