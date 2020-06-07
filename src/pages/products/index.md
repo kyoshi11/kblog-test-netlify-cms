@@ -68,10 +68,10 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: サブスクリプション（月額）
+  description: "
+    私たちはあなたの人生の一部として素晴らしいコーヒーを簡単に作ることができます。毎月あなたの玄関先で素晴らしいコーヒーを受け取るために私たちの毎月のサブ\
+    スクリプションプランのいずれかを選択してください。詳細とお支払い情報についてはお問い合わせください。"
   plans:
     - description: " 1日1〜2杯お召し上がりいただく方に最適です"
       items:
