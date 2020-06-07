@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: 世の中に役立つ情報を提供する
 mainpitch:
-  title: Why Kaldi
+  title: なぜ KS Blog
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -47,8 +47,7 @@ intro:
   heading: What we offer
   description: >
     カルディはジャワの起源とそれを育てた農家をサポートすることを学ぶコーヒー愛好家のための究極のスポットです
-    します。コーヒーを生産、焙煎、醸造を真剣に取り組み、誰にでも知識を誰でもお渡します。
-    これで独自性を作れます...
+    します。コーヒーを生産、焙煎、醸造を真剣に取り組み、誰にでも知識を誰でもお渡します。 これで独自性を作れます...
 main:
   heading: Great coffee with no compromises
   description: >
